@@ -18,22 +18,23 @@ In the midst of dynamic business environments and evolving labor regulations, Li
 | 📦 **Logistics** | Warehouse staff, packers, forklift operators, drivers |
 | 🛍️ **Retail** | SPG/SPB, cashiers, communicative store crews |
 | 🏢 **Admin & Back Office** | Admin staff, data entry, receptionists |
-| 🛡️ **Facility Mgt** | Security and integrated cleaning services |
+| 🛡️ **Facility Management** | Security and integrated cleaning services |
 | 🎯 **Specialist Talent** | Proactive recruitment for niche & technical roles |
 
 ## 💻 Technology-Driven Operations
 
-We believe that great service delivery is powered by great technology. We actively develop our own digital ecosystem to streamline recruitment, strengthen data security, and deliver seamless experiences for our B2B partners and talents.
+We believe great service delivery is powered by great technology. We actively develop our own digital ecosystem to streamline recruitment, strengthen data security, and deliver seamless experiences for our B2B partners and talents.
 
-This GitHub organization is our hub for building and maintaining our suite of digital products—from corporate portals to internal management systems and beyond.
+This GitHub organization is our hub for building and maintaining a growing suite of digital products — from corporate portals to internal management systems and beyond.
 
-## 📍 Coverage & Contact
-
+## 🌐 Connect With Us
 We are ready to support your business operations across **Sidoarjo, Surabaya, Gresik, Mojokerto, Malang**, and nationwide.
-
-* 🌐 **Website:** [www.linuwih.co.id](https://www.linuwih.co.id)
-* 📧 **Business Inquiry:** [sapa@linuwih.co.id](mailto:sapa@linuwih.co.id)
-* 📍 **Headquarters:** Ruko Heavenland Park BB No 26, Candi, Klurak, Sidoarjo, East Java, Indonesia
+| | |
+|---|---|
+| 🌐 **Website** | [www.linuwih.co.id](https://www.linuwih.co.id) |
+| 📧 **Business Inquiry** | [sapa@linuwih.co.id](mailto:sapa@linuwih.co.id) |
+| 📍 **Headquarters** | Ruko Heavenland Park BB No 26, Candi, Klurak, Sidoarjo, East Java, Indonesia |
 
 ---
+
 <sub>© 2026 PT Mitra Daya Linuwih. All rights reserved.</sub>
