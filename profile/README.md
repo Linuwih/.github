@@ -14,12 +14,12 @@ In the midst of dynamic business environments and evolving labor regulations, Li
 
 | Cluster | Roles |
 | :--- | :--- |
-| 🏭 **Manufacturing** | Machine operators, production helpers, factory workers |
-| 📦 **Logistics** | Warehouse staff, packers, forklift operators, drivers |
-| 🛍️ **Retail** | SPG/SPB, cashiers, communicative store crews |
+| 🏭 **Manufacturing & Production** | Machine operators, production helpers, factory workers |
+| 📦 **Logistics & Warehousing** | Warehouse staff, packers, forklift operators, drivers |
+| 🛍️ **Retail & Customer Service** | SPG/SPB, cashiers, communicative store crews |
 | 🏢 **Admin & Back Office** | Admin staff, data entry, receptionists |
-| 🛡️ **Facility Management** | Security and integrated cleaning services |
-| 🎯 **Specialist Talent** | Proactive recruitment for niche & technical roles |
+| 🧹 **General Facility Support** | Office boys, cleaning services, office maintenance staff |
+| 🎯 **Specialist Talent** | Recruitment for niche, technical, & high-skilled roles |
 
 ## 💻 Technology-Driven Operations
 
